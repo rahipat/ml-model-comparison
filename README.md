@@ -21,18 +21,6 @@ The pipeline includes feature correlation analysis, feature selection, model tra
 - Correlation-based feature selection
 - CSV export of results and feature importance
 
----
-
-## Project Structure
-
-.
-├── crime_data.csv
-├── model_selector.py
-├── model_comparison_results.csv
-├── feature_importance_<model_name>.csv
-└── README.md
-
----
 
 ## Dataset Requirements
 
